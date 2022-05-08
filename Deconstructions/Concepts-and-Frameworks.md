@@ -9,11 +9,19 @@
 
 ## Reservoir Computing
 ### Resources
-- **Project Share at Google Drive:** [Reservoir Computing and Lyapunov Papers](https://drive.google.com/drive/folders/1k8CK4sZdLH_wBURhgpL9KALrrVdhGjbQ?usp=sharing) which contains the following:
-  * [Referenced papers](https://drive.google.com/drive/folders/1TiNeHFyYzE4GM_c3pWGFj6iFEGDmh_1F?usp=sharing) of the [Quanta Magazine Article](https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/) of which the project got its idea  
+- **The Project Share at Google Drive named** [Reservoir Computing and Lyapunov Papers](https://drive.google.com/drive/folders/1k8CK4sZdLH_wBURhgpL9KALrrVdhGjbQ?usp=sharing) contains the following:
+  * [Referenced papers](https://drive.google.com/drive/folders/1TiNeHFyYzE4GM_c3pWGFj6iFEGDmh_1F?usp=sharing) of the [Quanta Magazine Article](https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/) of which the project got inspired  by  
   * [Reservoir Computing books](https://drive.google.com/drive/folders/1KjsVNSTHzqYjPzX4l_9fDCL8IwwKsoJj?usp=sharing)
-  * [Papers](https://drive.google.com/drive/folders/1sTSDBxfW_rJ-CRqvDRx-ehzndIQ6ORbK?usp=sharing) which cited the original 12X-Lyapunov Times paper (aka =orginal paper= you can find in the next paragraph) until April 2022. 
-Some papers have added their github repositories containing their code and documentation and shared the used data at Zenodo. One can find the links in the particular paper and partly already downloaded as stored in a directory within this share.   
+  * [Papers](https://drive.google.com/drive/folders/1sTSDBxfW_rJ-CRqvDRx-ehzndIQ6ORbK?usp=sharing) which cited the original *12X-Lyapunov Times* paper (short: [orginal paper](https://drive.google.com/open?id=1AkVMKwpyp6LLu3-jyaQMLp8KPVgKuEgb&authuser=matthias.frenzl%40gmail.com&usp=drive_fs)) until April 2022. 
+Some papers have added their github repositories containing their code and documentation and shared the used data at Zenodo. One can find the links in the particular paper and partly already downloaded and stored in a directory within this share, for instance:   
+    * [Stochastic ensemble climate forecast with an analogue model](https://drive.google.com/drive/folders/16vZgIEJMNFCo-7YqbwcsJLOJWpbqQaMk?usp=sharing)
+    * [Machine Learning Emulation of Urban Land Surface Processes](https://drive.google.com/drive/folders/17-ZVWbmnbI99x7HqhLv3-q-La6O7uQA7?usp=sharing)
+    * [Data-driven predictions of a multiscale Lorenz 96 chaotic system
+using machine-learning methods: reservoir computing, artificial
+neural network, and long short-term memory network](https://drive.google.com/drive/folders/176W3693wfgYKQqTRpxPB37W5aaHoPF3r?usp=sharing)
+    * [Applying Machine Learning to Improve Simulations of a
+Chaotic Dynamical System Using Empirical Error
+Correction](https://drive.google.com/drive/folders/16YYqqmd_R7qVpN9ZROX3NqQ1KTl7mfR2?usp=sharing)
  * **Original Paper** [Hybrid forecasting of chaotic processes Using machine learning in conjunction with a knowledge-based model](https://drive.google.com/open?id=1AkVMKwpyp6LLu3-jyaQMLp8KPVgKuEgb&authuser=matthias.frenzl%40gmail.com&usp=drive_fs)
 ![](https://hackmd.io/_uploads/HJQN4ZHUq.png)
 
@@ -22,6 +30,8 @@ Some papers have added their github repositories containing their code and docum
 
 ![](https://hackmd.io/_uploads/B1HBH-S89.png)
 
+
+* Maybe also very useful could be the following (kind of) [reference implementation of Reservoir comuputing](https://drive.google.com/drive/folders/16w-Ft6alYtYL0GJw59R6NJQfCnXngfCt?usp=sharing)
 ## Bayesian optimization
 
 ## Recurrent Neural Network [RNN]
