@@ -34,7 +34,7 @@ Correction](https://drive.google.com/drive/folders/16YYqqmd_R7qVpN9ZROX3NqQ1KTl7
 * Maybe also very useful could be the following (kind of) [reference implementation of Reservoir comuputing](https://drive.google.com/drive/folders/16w-Ft6alYtYL0GJw59R6NJQfCnXngfCt?usp=sharing)
 
 ## Echo State Approach
-[ ] Open for deconstruction: [The “echo state” approach to analysing and training recurrent neural networks](https://drive.google.com/file/d/1-2zf47O9JLtJ8zEUUQK-IQ2eXgbS-ZZ4/view?usp=sharing)
+- [ ]  Open for deconstruction: [The “echo state” approach to analysing and training recurrent neural networks](https://drive.google.com/file/d/1-2zf47O9JLtJ8zEUUQK-IQ2eXgbS-ZZ4/view?usp=sharing)
 ## Bayesian optimization
 
 ## Recurrent Neural Network [RNN]
