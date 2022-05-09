@@ -2,7 +2,7 @@
 ###### tags: `Deconstructions`
 
 # Tutorials
-- ** [Artificial Intelligence (AI) for Earth Monitoring](https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring)**
+- **[Artificial Intelligence (AI) for Earth Monitoring](https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring)**
 - **[Weather Prediction Course - Deep Learning with Python](https://github.com/tirthajyoti/Deep-learning-with-Python/blob/master/Notebooks/Weather-RNN.ipynb)**
 - **[Numerical Weather Forecast Models](https://www.su.se/english/search-courses-and-programmes/mo8006-1.411859?open-collapse-boxes=course-detail,course-time-table,course-material,course-more-about)**
 - **[ECMWF Trainings Overview](https://www.ecmwf.int/en/learning/elearning-online-resources)**
