@@ -25,7 +25,7 @@ Resource: https://aip.scitation.org/doi/10.1063/5.0075572
 - [Reservoirpy](https://github.com/reservoirpy/reservoirpy) and its [tutorials](https://github.com/reservoirpy/reservoirpy/tree/master/tutorials)
 - [ChyPP Combined Hybrid-Parallel Prediction](https://github.com/awikner/CHyPP)
 - [Echo State Network, ANN, LSTM, Lorenz96](https://github.com/ashesh6810/RCESN_spatio_temporal) plus [Research Paper](https://npg.copernicus.org/articles/27/373/2020/npg-27-373-2020.pdf)
-- 
+- [Reservoir_with_a_Parameter_Channel](https://github.com/lw-kong/Reservoir_with_a_Parameter_Channel_PRR2021) and the updated version [here](https://github.com/lw-kong/Reservoir_with_a_Parameter_Channel_JPC2021)
 
 ### Tutorials
 - [Data Driven Modeling of Complex Systems: A Reservoir Computing Tutorial](https://towardsdatascience.com/data-driven-modeling-of-complex-systems-8a96dc92abf9)
