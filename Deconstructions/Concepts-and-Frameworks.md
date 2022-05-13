@@ -13,10 +13,7 @@
 `much of the information represented by neural networks is not static but dynamic. As a biological example, a songbird’s representation of song is inherently time-varying and can be continuously sped up and slowed down through external perturbations.12 In artificial networks, recurrent neural networks (RNNs) can store a history of temporal information such as language, dynamical trajectories, and climate to more accurately classify and predict future events.`
 Resource: https://aip.scitation.org/doi/10.1063/5.0075572
 
-
-
-
-## Glossary
+### Glossary
 | Abbreviation | Long Text | Resource |
 | -------- | -------- | ------|
 | BPTT    | backpropagation through time     | [Resource](https://www.sciencedirect.com/science/article/pii/S0959438818302009?via%3Dihub)|
@@ -24,14 +21,12 @@ Resource: https://aip.scitation.org/doi/10.1063/5.0075572
 | LSTM |long short-term memory|[Resource](https://doi.org/10.1162/neco.1997.9.8.1735)|
 
 
-
-
-
-
-
 ### Github Resources
 - [Reservoirpy](https://github.com/reservoirpy/reservoirpy) and its [tutorials](https://github.com/reservoirpy/reservoirpy/tree/master/tutorials)
 - [ChyPP Combined Hybrid-Parallel Prediction](https://github.com/awikner/CHyPP)
+
+### Tutorials
+- [Data Driven Modeling of Complex Systems: A Reservoir Computing Tutorial](https://towardsdatascience.com/data-driven-modeling-of-complex-systems-8a96dc92abf9)
 
 ### Research Papers Resources
 - **The Project Share at Google Drive named** [Reservoir Computing and Lyapunov Papers](https://drive.google.com/drive/folders/1k8CK4sZdLH_wBURhgpL9KALrrVdhGjbQ?usp=sharing) contains the following:
