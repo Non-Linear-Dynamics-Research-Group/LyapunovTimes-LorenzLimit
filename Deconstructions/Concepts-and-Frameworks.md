@@ -21,7 +21,7 @@ Resource: https://aip.scitation.org/doi/10.1063/5.0075572
 | -------- | -------- | ------|
 | BPTT    | backpropagation through time     | [Resource](https://www.sciencedirect.com/science/article/pii/S0959438818302009?via%3Dihub)|
 | RNN    | recurrent neural networks    | |
-| LSTM |long short-term memory|[Resource](S. Hochreiter and J. Schmidhuber, “Long short-term memory,” Neural Comput. 9, 1735–1780 (1997). https://doi.org/10.1162/neco.1997.9.8.1735, Google ScholarCrossref)|
+| LSTM |long short-term memory|[Resource](https://doi.org/10.1162/neco.1997.9.8.1735)|
 
 
 
