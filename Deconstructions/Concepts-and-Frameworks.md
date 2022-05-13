@@ -28,8 +28,8 @@ Resource: https://aip.scitation.org/doi/10.1063/5.0075572
 - [Reservoir_with_a_Parameter_Channel](https://github.com/lw-kong/Reservoir_with_a_Parameter_Channel_PRR2021) and the updated version [here](https://github.com/lw-kong/Reservoir_with_a_Parameter_Channel_JPC2021)
 - [Keras is a deep learning API written in Python](https://github.com/keras-team/keras)
 - [RNN architectures trained with Backpropagation through time (BPTT) and Reservoir Computing (RC) for high-dimensional time-series forecasting](https://github.com/pvlachas/RNN-RC-Chaos)
-- [Fog Prediction])https://github.com/conrad-blucher-institute/FogNet)
-- [Hamiltonian Neural Networks](https://github.com/ayushgarg31/HNN-Neurips20190
+- [Fog Prediction](https://github.com/conrad-blucher-institute/FogNet)
+- [Hamiltonian Neural Networks](https://github.com/ayushgarg31/HNN-Neurips20190)
 
 ### Tutorials
 - [Data Driven Modeling of Complex Systems: A Reservoir Computing Tutorial](https://towardsdatascience.com/data-driven-modeling-of-complex-systems-8a96dc92abf9)
