@@ -26,9 +26,14 @@ Resource: https://aip.scitation.org/doi/10.1063/5.0075572
 - [ChyPP Combined Hybrid-Parallel Prediction](https://github.com/awikner/CHyPP)
 - [Echo State Network, ANN, LSTM, Lorenz96](https://github.com/ashesh6810/RCESN_spatio_temporal) plus [Research Paper](https://npg.copernicus.org/articles/27/373/2020/npg-27-373-2020.pdf)
 - [Reservoir_with_a_Parameter_Channel](https://github.com/lw-kong/Reservoir_with_a_Parameter_Channel_PRR2021) and the updated version [here](https://github.com/lw-kong/Reservoir_with_a_Parameter_Channel_JPC2021)
+- [Keras is a deep learning API written in Python](https://github.com/keras-team/keras)
+- [RNN architectures trained with Backpropagation through time (BPTT) and Reservoir Computing (RC) for high-dimensional time-series forecasting](https://github.com/pvlachas/RNN-RC-Chaos)
+- [Fog Prediction])https://github.com/conrad-blucher-institute/FogNet)
+- [Hamiltonian Neural Networks](https://github.com/ayushgarg31/HNN-Neurips20190
 
 ### Tutorials
 - [Data Driven Modeling of Complex Systems: A Reservoir Computing Tutorial](https://towardsdatascience.com/data-driven-modeling-of-complex-systems-8a96dc92abf9)
+- [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 
 ### Research Papers Resources
 - **The Project Share at Google Drive named** [Reservoir Computing and Lyapunov Papers](https://drive.google.com/drive/folders/1k8CK4sZdLH_wBURhgpL9KALrrVdhGjbQ?usp=sharing) contains the following:
