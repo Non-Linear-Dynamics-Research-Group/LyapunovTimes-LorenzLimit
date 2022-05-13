@@ -9,6 +9,25 @@
 
 ## Reservoir Computing
 
+## About Reservoir Computing
+`much of the information represented by neural networks is not static but dynamic. As a biological example, a songbird’s representation of song is inherently time-varying and can be continuously sped up and slowed down through external perturbations.12 In artificial networks, recurrent neural networks (RNNs) can store a history of temporal information such as language, dynamical trajectories, and climate to more accurately classify and predict future events.`
+Resource: https://aip.scitation.org/doi/10.1063/5.0075572
+
+
+
+
+## Glossary
+| Abbreviation | Long Text | Resource |
+| -------- | -------- | ------|
+| BPTT    | backpropagation through time     | [Resource](https://www.sciencedirect.com/science/article/pii/S0959438818302009?via%3Dihub)|
+| RNN    | recurrent neural networks    | |
+| LSTM |long short-term memory|[Resource](S. Hochreiter and J. Schmidhuber, “Long short-term memory,” Neural Comput. 9, 1735–1780 (1997). https://doi.org/10.1162/neco.1997.9.8.1735, Google ScholarCrossref)|
+
+
+
+
+
+
 
 ### Github Resources
 - [Reservoirpy](https://github.com/reservoirpy/reservoirpy) and its [tutorials](https://github.com/reservoirpy/reservoirpy/tree/master/tutorials)
