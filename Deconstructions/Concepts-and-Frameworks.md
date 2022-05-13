@@ -34,6 +34,7 @@ Resource: https://aip.scitation.org/doi/10.1063/5.0075572
 ### Tutorials
 - [Data Driven Modeling of Complex Systems: A Reservoir Computing Tutorial](https://towardsdatascience.com/data-driven-modeling-of-complex-systems-8a96dc92abf9)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+- [ modeling of extreme events in complex dynamical systems](https://arxiv.org/pdf/1803.03365.pdf) and [Github Portfolio](https://github.com/zhong1wan/data-assisted)
 
 ### Research Papers Resources
 - **The Project Share at Google Drive named** [Reservoir Computing and Lyapunov Papers](https://drive.google.com/drive/folders/1k8CK4sZdLH_wBURhgpL9KALrrVdhGjbQ?usp=sharing) contains the following:
