@@ -8,7 +8,13 @@
 &nbsp; 
 
 ## Reservoir Computing
-### Resources
+
+
+### Github Resources
+- [Reservoirpy](https://github.com/reservoirpy/reservoirpy) and its [tutorials](https://github.com/reservoirpy/reservoirpy/tree/master/tutorials)
+- 
+
+### Research Papers Resources
 - **The Project Share at Google Drive named** [Reservoir Computing and Lyapunov Papers](https://drive.google.com/drive/folders/1k8CK4sZdLH_wBURhgpL9KALrrVdhGjbQ?usp=sharing) contains the following:
   * [Referenced papers](https://drive.google.com/drive/folders/1TiNeHFyYzE4GM_c3pWGFj6iFEGDmh_1F?usp=sharing) of the [Quanta Magazine Article](https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/) of which the project got inspired  by  
   * [Reservoir Computing books](https://drive.google.com/drive/folders/1KjsVNSTHzqYjPzX4l_9fDCL8IwwKsoJj?usp=sharing)
