@@ -31,7 +31,7 @@ Resource: https://aip.scitation.org/doi/10.1063/5.0075572
 
 ### Github Resources
 - [Reservoirpy](https://github.com/reservoirpy/reservoirpy) and its [tutorials](https://github.com/reservoirpy/reservoirpy/tree/master/tutorials)
-- 
+- [ChyPP Combined Hybrid-Parallel Prediction](https://github.com/awikner/CHyPP)
 
 ### Research Papers Resources
 - **The Project Share at Google Drive named** [Reservoir Computing and Lyapunov Papers](https://drive.google.com/drive/folders/1k8CK4sZdLH_wBURhgpL9KALrrVdhGjbQ?usp=sharing) contains the following:
