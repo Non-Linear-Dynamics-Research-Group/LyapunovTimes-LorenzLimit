@@ -72,6 +72,7 @@ Correction](https://drive.google.com/drive/folders/16YYqqmd_R7qVpN9ZROX3NqQ1KTl7
 
 ## Echo State Approach
 - [ ]  Open for deconstruction: [The “echo state” approach to analysing and training recurrent neural networks](https://drive.google.com/file/d/1-2zf47O9JLtJ8zEUUQK-IQ2eXgbS-ZZ4/view?usp=sharing)
+- [ ]  [A gentle introduction to Echo State Networks](https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68)
 ## Bayesian optimization
 
 ## Recurrent Neural Network [RNN]
