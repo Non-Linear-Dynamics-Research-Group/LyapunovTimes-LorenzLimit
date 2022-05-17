@@ -14,6 +14,7 @@ The following papers would be great to look at - but we don't have access:
 - [Physics-informed machine learning: case studies for weather and climate modelling](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2020.0093)
 - [Time-series forecasting with deep learning: a survey](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2020.0209)
 - [Learning earth system models from observations: machine learning or data assimilation?](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2020.0089)
+- [Book Introduction to Chaotic Dynamics’ Forecasting](https://link.springer.com/chapter/10.1007/978-3-030-94482-7_1)
 :::
 
 ## About Reservoir Computing
