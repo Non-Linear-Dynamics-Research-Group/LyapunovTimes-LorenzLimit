@@ -9,6 +9,13 @@
 
 ## Reservoir Computing
 
+:::info
+The following papers would be great to look at - but we don't have access:
+- [Physics-informed machine learning: case studies for weather and climate modelling](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2020.0093)
+- [Time-series forecasting with deep learning: a survey](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2020.0209)
+- [Learning earth system models from observations: machine learning or data assimilation?](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2020.0089)
+:::
+
 ## About Reservoir Computing
 `much of the information represented by neural networks is not static but dynamic. As a biological example, a songbird’s representation of song is inherently time-varying and can be continuously sped up and slowed down through external perturbations.12 In artificial networks, recurrent neural networks (RNNs) can store a history of temporal information such as language, dynamical trajectories, and climate to more accurately classify and predict future events.`
 Resource: https://aip.scitation.org/doi/10.1063/5.0075572
@@ -53,8 +60,8 @@ Correction](https://drive.google.com/drive/folders/16YYqqmd_R7qVpN9ZROX3NqQ1KTl7
  * **Original Paper** [Hybrid forecasting of chaotic processes Using machine learning in conjunction with a knowledge-based model](https://drive.google.com/open?id=1AkVMKwpyp6LLu3-jyaQMLp8KPVgKuEgb&authuser=matthias.frenzl%40gmail.com&usp=drive_fs)
 ![](https://hackmd.io/_uploads/HJQN4ZHUq.png)
 
-
   * **A start to get into the topic** [1 Start here -  When machine learning meets complex systems - Networks, chaos, and nonlinear dynamics](https://drive.google.com/file/d/19GQTl6J7zLEYXzGBaBWzmbKZXHOhFDzp/view?usp=sharing)
+
 
 ![](https://hackmd.io/_uploads/B1HBH-S89.png)
 
