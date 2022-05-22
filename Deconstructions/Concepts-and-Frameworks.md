@@ -27,6 +27,12 @@ Resource: https://aip.scitation.org/doi/10.1063/5.0075572
 | BPTT    | backpropagation through time     | [Resource](https://www.sciencedirect.com/science/article/pii/S0959438818302009?via%3Dihub)|
 | RNN    | recurrent neural networks    | |
 | LSTM |long short-term memory|[Resource](https://doi.org/10.1162/neco.1997.9.8.1735)|
+|Ensemble||
+|Leaking rate||
+
+### Open Questions
+- [ ] Um eine gute Prediction (Vorhersage) treffen zu koennen gibt es das Concept des Ensembling (Kombinieren mehrere Modelle). -> Computational Efficiency. Mit welchen Daten aus dem Corpus soll man einen Reservoir Algo feeden? Bsp Katze mit Edge Cases. 
+- [ ] Decision tree methods vs Shortest Path Algos, Gradient Descent Verfahren. `Matthias`
 
 
 ### Github Resources
