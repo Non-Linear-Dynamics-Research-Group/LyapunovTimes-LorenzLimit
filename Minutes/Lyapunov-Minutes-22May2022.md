@@ -13,7 +13,7 @@ Learn and work through:
 * [Documentation](https://reservoirpy.readthedocs.io/en/latest/api/generated/reservoirpy.nodes.Reservoir.html)
 
 ## Next Steps
-- [ ] Answer the questions of put in [Concepts & Frameworks](https://github.com/Non-Linear-Dynamics-Research-Group/Research_Lyapunov-Times-and-Lorenz-Limit/blob/main/Deconstructions/Concepts-and-Frameworks.md)
+- [ ] Answer the questions of put in [Open Questions](https://github.com/Non-Linear-Dynamics-Research-Group/Research_Lyapunov-Times-and-Lorenz-Limit/blob/main/Deconstructions/Open%20Questions.md)
 - [ ] Learn and work through the tutorial .ipynbs
 
 
