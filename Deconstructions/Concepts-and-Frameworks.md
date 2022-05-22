@@ -29,6 +29,7 @@ Resource: https://aip.scitation.org/doi/10.1063/5.0075572
 | LSTM |long short-term memory|[Resource](https://doi.org/10.1162/neco.1997.9.8.1735)|
 |Ensemble||
 |Leaking rate||
+|GRU||
 
 ### Open Questions
 - [ ] Um eine gute Prediction (Vorhersage) treffen zu koennen gibt es das Concept des Ensembling (Kombinieren mehrere Modelle). -> Computational Efficiency. Mit welchen Daten aus dem Corpus soll man einen Reservoir Algo feeden? Bsp Katze mit Edge Cases. 
