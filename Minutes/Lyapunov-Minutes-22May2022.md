@@ -6,7 +6,7 @@
 [TOC]
 
 ## Decisions
-- [ ] Learn and work throug:
+- [ ] Learn and work through:
 * [ReservoirPy Python library](https://github.com/reservoirpy/reservoirpy) and its 
 * [Tutorial](https://github.com/reservoirpy/reservoirpy/tree/master/tutorials) and its
 * [User Guide](https://reservoirpy.readthedocs.io/en/latest/user_guide/index.html#user-guide)
