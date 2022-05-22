@@ -26,10 +26,10 @@ Resource: https://aip.scitation.org/doi/10.1063/5.0075572
 | -------- | -------- | ------|
 | BPTT    | backpropagation through time     | [Resource](https://www.sciencedirect.com/science/article/pii/S0959438818302009?via%3Dihub)|
 | RNN    | recurrent neural networks    | |
-| LSTM |long short-term memory|[Resource](https://doi.org/10.1162/neco.1997.9.8.1735)|
+| LSTM |long short-term memory|[Resource](https://doi.org/10.1162/neco.1997.9.8.1735) and [here](https://analyticsindiamag.com/lstm-vs-gru-in-recurrent-neural-network-a-comparative-study/)|
 |Ensemble||
 |Leaking rate||
-|GRU||
+|[GRU](https://analyticsindiamag.com/lstm-vs-gru-in-recurrent-neural-network-a-comparative-study/)|Gated Recurrent Unit|
 | [Clustering](https://www.educative.io/edpresso/classification-vs-clustering)|clustering is used to group similar data instances together|
 |[Classification](https://www.educative.io/edpresso/classification-vs-clustering)|Classification is used to label data|
 
