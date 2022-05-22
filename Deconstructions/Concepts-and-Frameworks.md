@@ -30,6 +30,9 @@ Resource: https://aip.scitation.org/doi/10.1063/5.0075572
 |Ensemble||
 |Leaking rate||
 |GRU||
+| [Clustering](https://www.educative.io/edpresso/classification-vs-clustering)|clustering is used to group similar data instances together|
+|[Classification](https://www.educative.io/edpresso/classification-vs-clustering)|Classification is used to label data|
+
 
 ### Open Questions
 - [ ] Um eine gute Prediction (Vorhersage) treffen zu koennen gibt es das Concept des Ensembling (Kombinieren mehrere Modelle). -> Computational Efficiency. Mit welchen Daten aus dem Corpus soll man einen Reservoir Algo feeden? Bsp Katze mit Edge Cases. 
