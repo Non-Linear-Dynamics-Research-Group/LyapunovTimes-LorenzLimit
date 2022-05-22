@@ -82,7 +82,7 @@ Correction](https://drive.google.com/drive/folders/16YYqqmd_R7qVpN9ZROX3NqQ1KTl7
 ![](https://hackmd.io/_uploads/B1HBH-S89.png)
 
 
-* Maybe also very useful could be the following (kind of) [reference implementation of Reservoir comuputing](https://drive.google.com/drive/folders/16w-Ft6alYtYL0GJw59R6NJQfCnXngfCt?usp=sharing)
+* Maybe also very useful could be the following (kind of) [JULIA Reference implementation of Reservoir Computing](https://drive.google.com/drive/folders/16w-Ft6alYtYL0GJw59R6NJQfCnXngfCt?usp=sharing)
 
 ## Echo State Approach
 - [ ]  Open for deconstruction: [The “echo state” approach to analysing and training recurrent neural networks](https://drive.google.com/file/d/1-2zf47O9JLtJ8zEUUQK-IQ2eXgbS-ZZ4/view?usp=sharing)
